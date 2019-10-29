@@ -9,7 +9,10 @@ Can perform simple CRUD operations.
     <img src="/screenshots/Screenshot_20191029-121422.jpg" width="200px" height="400px"></img> 
 </div>
 
-<br><Strong>EDIT ANY ITEM:</Strong></br>
+<br><Strong>DELETE ANY ITEM:</Strong></br>
 <div align="center">
-    <img src="/screenshots/Screenshot_20191029-121310.jpg" width="200px" height="400px"></img>
+    <img src="/screenshots/Screenshot_del1 (1).jpg" width="200px" height="400px"></img>
+    <img src="/screenshots/Screenshot_del2.jpg" width="200px" height="400px"></img>
+    <img src="/screenshots/Screenshot_del3.jpg" width="200px" height="400px"></img>
+    
 </div>
