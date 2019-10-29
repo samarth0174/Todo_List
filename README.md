@@ -4,5 +4,12 @@
 Can perform simple CRUD operations.
 
 <div align="center">
-    <img src="https://github.com/samarth0174/Todo_List/tree/master/screenshots/Screenshot_20191029-121310.jpg" width="400px"</img> 
+    <img src="/screenshots/Screenshot_20191029-121310.jpg" width="200px" height="400px"></img>
+    <img src="/screenshots/Screenshot_20191029-121315.jpg" width="200px" height="400px"></img> 
+    <img src="/screenshots/Screenshot_20191029-121422.jpg" width="200px" height="400px"></img> 
+</div>
+
+<br><Strong>EDIT ANY ITEM:</Strong></br>
+<div align="center">
+    <img src="/screenshots/Screenshot_20191029-121310.jpg" width="200px" height="400px"></img>
 </div>
