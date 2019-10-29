@@ -3,4 +3,6 @@
 <br/>
 Can perform simple CRUD operations.
 
-![](https://github.com/samarth0174/Todo_List/tree/master/screenshots/Screenshot_20191029-121310.jpg){:height="50%" width="50%"}
+<div align="center">
+    <img src="https://github.com/samarth0174/Todo_List/tree/master/screenshots/Screenshot_20191029-121310.jpg" width="400px"</img> 
+</div>
